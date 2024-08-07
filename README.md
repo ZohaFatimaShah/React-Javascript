@@ -46,3 +46,8 @@ const ClassDetail = (props) => {
     ></i>
   );
 };
+
+```
+## Screenshots
+![Enable Icon Screenshot](images/enable_i.png)
+![Disabled Icon Screenshot](images/disable_i.png)
